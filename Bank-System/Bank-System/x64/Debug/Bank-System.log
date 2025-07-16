@@ -1,0 +1,69 @@
+﻿  Bank-System.cpp
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank-System.cpp')
+      C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank-System.cpp')
+      C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank-System.cpp')
+  
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\m7ama\source\repos\Bank-System\Bank-System\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank-System.vcxproj -> C:\Users\m7ama\source\repos\Bank-System\x64\Debug\Bank-System.exe
